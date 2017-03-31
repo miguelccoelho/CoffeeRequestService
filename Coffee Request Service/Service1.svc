@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Coffee_Request_Service.Service1" CodeBehind="Service1.svc.cs" %>

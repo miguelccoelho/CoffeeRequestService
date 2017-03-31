@@ -1,0 +1,6 @@
+#### Coffee ####
+Name / string / one
+Intensity / integer / one
+price / double / one
+
+#### User ####
