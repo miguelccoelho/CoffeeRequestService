@@ -83,6 +83,7 @@ namespace MiguelC.BasicTypes
                 this.PriceTotal += item.Key.Price * item.Value;
             }
         }
+
     }
 
     public class User
